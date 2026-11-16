@@ -7,7 +7,7 @@ After a brilliant, socially isolated software engineer dies by suicide following
 She builds an autonomous network of AI agents that study her former bullies, understand their weaknesses, reconstruct their memories, manipulate their digital environments, and coordinate her revenge.
 
 
-
+==============================
 
 Logline
 
